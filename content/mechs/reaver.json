@@ -12,10 +12,10 @@
     "mass": 5,
     "health": 1250,
     "itemCapacity": 120,
-    "buildPower": 0.5f,
+    "buildPower": 0.5,
 	"drillPower": 1,
-	"mineSpeed": 0.5f,
-    "cellTrnsY": 1f,
+	"mineSpeed": 0.5,
+    "cellTrnsY": 1,
     "engineColor": "ff4f66",
     "weaponOffsetY": 3,
     "baseRotateSpeed": 0.11,
@@ -29,10 +29,17 @@
         "shots":2,
         "spacing": 1,
         "velocityRnd": 0.1,
-        "inaccuracy": 1.9,
+        "inaccuracy": 1.6,
         "alternate": true,
-        "ejectEffect": "none",
-        "bullet": "standardMechSmall",
+        "ejectEffect": "shellEjectSmall",
+        "bullet": {
+				"type": "BasicBulletType",
+				"lifetime": 16,
+				"speed": 11,
+				"damage": 12,
+				"bulletSprite": "extended-rebuilding-modules-a100bullet",
+				"keepVelocity":false
+		},
         "shootSound": "shootSnap"
     }
 }

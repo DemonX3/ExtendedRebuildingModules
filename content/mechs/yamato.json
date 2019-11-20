@@ -13,8 +13,8 @@
 	"turnCursor": false,
     "health": 5000,
     "itemCapacity": 600,
-    "buildpower": 0.4f,
-    "cellTrnsY": 1f,
+    "buildpower": 0.4,
+    "cellTrnsY": 1,
     "engineColor": "ff7f4c",
     "weaponOffsetY": 0,
     "baseRotateSpeed": 0.06,
@@ -23,13 +23,14 @@
         "name": "meltdown",
         "length":4.0,
         "width":0.0,
-        "reload":2.0,
-        "shots":1,
+        "reload":900,
+        "shots":200,
+		"shotDelay":3,
         "spacing": 1,
-        "alternate": false,
+        "alternate": true,
 		"ignoreRotation": false,
         "ejectEffect": "none",
         "bullet": "meltdownLaser",
-        "shootSound": "laserbig"
+        "shootSound": "beam"
     }
 }

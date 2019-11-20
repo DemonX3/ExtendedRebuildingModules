@@ -7,9 +7,9 @@
     "produceTime": 1500,
     "requirements": [
         { "item": "copper", "amount": 275},
-        { "item": "lead", "amount": 250},
-		{ "item": "graphite", "amount": 150},
-		{ "item": "silicon", "amount": 75}
+        { "item": "lead", "amount": 450},
+		{ "item": "graphite", "amount": 250},
+		{ "item": "silicon", "amount": 100}
     ],
 	"consumes": {
          "power": 1.4,

@@ -6,8 +6,8 @@
     "size": 2,
     "produceTime": 1500,
     "requirements": [
-        { "item": "copper", "amount": 250},
-        { "item": "lead", "amount": 175}
+        { "item": "copper", "amount": 175},
+        { "item": "lead", "amount": 125}
     ],
     "category": "upgrade",
     "research": "trident-ship-pad"
