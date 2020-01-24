@@ -56,6 +56,16 @@ Buildpower: 100%
 Storage: 600  
 **In the near future will be either removed from the mod or fully reworked in favor of a unigue weapon and ability, rather then meltdown.  
 
+V1.3 coming soon:
+- New Mech
+- New Ship
+- Yamato rework
+
+V1.2 strikes:
+- Reaver ship was resprited
+- Minor balance tweaks
+- Mech weapon is now specified in the database
+
 V1.1:  
 - Mod updated to the newest build 100  
 - Added russian localisation | Добавлена русская локализация.  
