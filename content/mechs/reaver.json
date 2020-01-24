@@ -36,7 +36,7 @@
 				"type": "BasicBulletType",
 				"lifetime": 16,
 				"speed": 11,
-				"damage": 12,
+				"damage": 14,
 				"bulletSprite": "extended-rebuilding-modules-a100bullet",
 				"keepVelocity":false
 		},

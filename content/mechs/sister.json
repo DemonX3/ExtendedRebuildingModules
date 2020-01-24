@@ -5,6 +5,7 @@
     "speed": 0.6,
     "maxVelocity": 2.8,
     "flying":true,
+	"canHeal":true,
     "drag": 0.1,
     "engineSize": 2.5,
     "engineOffset": 5,
