@@ -4,12 +4,9 @@
     "name": "Reaver Assault Gunship Pad",
     "description": "Reconstruct your ship into a superior anti-ground aerial unit.",
     "size": 3,
-    "produceTime": 1750,
+    "produceTime": 0,
     "requirements": [
-        { "item": "lead", "amount": 2500},
-        { "item": "titanium", "amount": 850},
-        { "item": "graphite", "amount": 600},
-        { "item": "plastanium", "amount": 475}
+        { "item": "lead", "amount": 0}
     ],
     "consumes": {
          "power": 3.25,
