@@ -1,78 +1,64 @@
-# ExtendedRebuildingModules
-Note: This mod is for V5 and utilizes outdated mechanic and building type, therefore will not be updated for V6+ ever.
 
-This mod aims to add more playable ships and mechs with different specializations.  
-Currently the mod supports 3 new ships and 1 new mech to chose from:
+# Extended Rebuilding Modules   [![Badge Mindustry]][Version 5]
 
-Sister Ship  
-Alternative construction ship model which trades damage for ability to heal buildings.
-Unlike Tau Class Mech, Sister Class Ship has advantage in mobility, although lacks durability and battle capabilities.  
-Weapon: Structural Projector  
-Weapon damage: 7  
-*Weapon healing: 2%  
-*Heal Based Weapon  
-Health: 175  
-Mine speed: 125%  
-Drillpower: 100%  
-Buildpower: 100%  
-Storage: 26
+*A **[Mindustry]** mod that adds new specialized ships & mechs.*
 
-Stalker Mech  
-Heavily armored close combat specialised mech. Stalker is equipped with dual proton pulsators that shoot in bursts of protonic charges, 
-dealing massive damage at close range. Stalkers cannot be manufactured on the surface, 
-so they are constructed on mothership and are sent to the drop points on request. 
-Please do not toss them at enemies' meltdowns and spectres, Stalkers are quite expensive.  
-Weapon: Proton Pulsators  
-Weapon damage: 16  
-*Weapon shots: 14  
-*Shotgun Based Weapon  
-Health: 600  
-Mine speed: 150%  
-Drillpower: 100%  
-Buildpower: 90%  
-Storage: 48  
+<br>
+<br>
+<br>
 
-Reaver Ship  
-Heavy assault gunship, designed for air-ground support actions. 
-Armed with heavy A100 minigun at the cost of weak construction and mining projectors. 
-While 'Reaver' is gunship's official name, people often call it 'Black Pearl' or 'Flying Dutchman'. 
-And now this ship is literally associated with legends of space pirates.  
-Weapon: A100  
-Weapon damage: 14  
-Health: 1250  
-Mine speed: 50%  
-Drillpower: 100%  
-Buildpower: 50%  
-Storage: 120  
+<div align = center>
 
-**Yamato Battlecruiser  
-510 years of inhuman experiments on a Meltdown turrets led us to this pinnacle of spacecraft. 
-Armed with amplified version of Meltdown, that does not overheat, comes with pre-installed internal impact reactor 
-that fuels the Meltdown onboard. And best part is that this abomination can actually move!  
-*Weapon: Meltdown  
-*Exactly  
-Health: 5000  
-Mine speed: 0%  
-Drillpower: 0%  
-Buildpower: 100%  
-Storage: 600  
-**In the near future will be either removed from the mod or fully reworked in favor of a unigue weapon and ability, rather then meltdown.  
+[![Button Changelog]][Changelog]
 
-V1.3 coming soon:
-- New Mech
-- New Ship
-- Yamato rework
+<br>
+<br>
+<br>
 
-V1.2 strikes:
-- Reaver ship was resprited
-- Minor balance tweaks
-- Mech weapon is now specified in the database
+## Ships & Mechs
 
-V1.1:  
-- Mod updated to the newest build 100  
-- Added russian localisation | Добавлена русская локализация.  
-- Buffed Sister attackspeed, raising her combat and healing capabilities while not making them utter good.  
-- Lowered build cost for Sister Ship Pad - Updated sprites for Yamato Construction Facility(Meltdown Ship Pad) and Reaver bullets.  
-- Reaver weapon rework. Raised bullet velocity, no longer keeps ship velocity.  
-- Yamato weapon rework. Behaves like real meltdown beam, holding itself. When ship is idle, beam will start sweeping in an arc.  
-- I finally figured out how github works.  
+<br>
+
+[![Button Stalker]][Stalker]   
+[![Button Reaver]][Reaver]   
+[![Button Sister]][Sister]
+
+[![Button Yamato]][Yamato]
+
+</div>
+
+<br>
+<br>
+
+## Note
+
+*This mod was designed for **V5** of **Mindustry** and <br>
+is built on outdated game / building mechanics, <br>
+as such it will not be ported to **V6+**.*
+
+<br>
+
+<!----------------------------------------------------------------------------->
+
+[Version 5]: https://github.com/Anuken/Mindustry/releases/tag/v104.6
+[Mindustry]: https://mindustrygame.github.io/
+
+[Changelog]: Documentation/Changelog.md
+[Stalker]: Documentation/Ships%20&%20Mechs/Stalker.md
+[Reaver]: Documentation/Ships%20&%20Mechs/Reaver.md
+[Sister]: Documentation/Ships%20&%20Mechs/Sister.md
+[Yamato]: Documentation/Ships%20&%20Mechs/Yamato.md
+
+
+<!----------------------------------[ Badges ]--------------------------------->
+
+[Badge Mindustry]: https://img.shields.io/badge/Mindustry-v5-d4816b.svg?style=for-the-badge&labelColor=d3a246
+
+
+<!---------------------------------[ Buttons ]--------------------------------->
+
+[Button Changelog]: https://img.shields.io/badge/Changelog-0099E5?style=for-the-badge&logoColor=white&logo=GitBook
+[Button Stalker]: https://img.shields.io/badge/Stalker-Mech-5940a3?style=for-the-badge&labelColor=7856db
+[Button Reaver]: https://img.shields.io/badge/Reaver-Ship-9f3636?style=for-the-badge&labelColor=ce4646
+[Button Sister]: https://img.shields.io/badge/Sister-Ship-558966?style=for-the-badge&labelColor=79c191
+[Button Yamato]: https://img.shields.io/badge/Yamato-Battlecruiser-4d4e58?style=for-the-badge&labelColor=5b5b60
