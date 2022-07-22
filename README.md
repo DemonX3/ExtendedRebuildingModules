@@ -1,4 +1,5 @@
 # ExtendedRebuildingModules
+Note: This mod is for V5 and utilizes outdated mechanic and building type, therefore will not be updated for V6+ ever.
 This mod aims to add more playable ships and mechs with different specializations.  
 Currently the mod supports 3 new ships and 1 new mech to chose from:
 
