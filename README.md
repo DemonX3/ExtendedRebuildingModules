@@ -1,8 +1,9 @@
 
-# Extended Rebuilding Modules   [![Badge License]][License]   [![Badge Mindustry]][Version 5]
+# Extended Rebuilding Modules   [![Badge Mindustry]][Version 5]
 
-*A **[Mindustry]** mod that adds new ships & mechs with different specializations.*
+*A **[Mindustry]** mod that adds new specialized ships & mechs.*
 
+<br>
 <br>
 <br>
 
@@ -12,6 +13,7 @@
 
 <br>
 <br>
+<br>
 
 ## Ships & Mechs
 
@@ -19,7 +21,8 @@
 
 [![Button Stalker]][Stalker]   
 [![Button Reaver]][Reaver]   
-[![Button Sister]][Sister]   
+[![Button Sister]][Sister]
+
 [![Button Yamato]][Yamato]
 
 </div>
@@ -41,7 +44,6 @@ as such it will not be ported to **V6+**.*
 [Mindustry]: https://mindustrygame.github.io/
 
 [Changelog]: Documentation/Changelog.md
-[License]: #
 [Stalker]: Documentation/Ships%20&%20Mechs/Stalker.md
 [Reaver]: Documentation/Ships%20&%20Mechs/Reaver.md
 [Sister]: Documentation/Ships%20&%20Mechs/Sister.md
@@ -51,7 +53,6 @@ as such it will not be ported to **V6+**.*
 <!----------------------------------[ Badges ]--------------------------------->
 
 [Badge Mindustry]: https://img.shields.io/badge/Mindustry-v5-d4816b.svg?style=for-the-badge&labelColor=d3a246
-[Badge License]: https://img.shields.io/badge/License-Unknown-808080.svg?style=for-the-badge
 
 
 <!---------------------------------[ Buttons ]--------------------------------->
